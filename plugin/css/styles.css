@@ -67,12 +67,12 @@ a {
 }
 
 #context-list-holder {
-    background-color: #1f1f1f !important;
+    background-color: #ffffff !important;
 }
 
 
 .course-list-table .course-list-table-row:hover, .ef-item-row:hover, tr:hover {
-    background-color: #4b4b4b !important;
+    background-color: #ffffff !important;
 }
 
 .mini_calendar .day.today  {
